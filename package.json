@@ -1,0 +1,24 @@
+{
+  "name": "qa12j_yagor_yafimau_saucedemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@wdio/cli": "^7.x.x",
+    "@wdio/mocha-framework": "^7.x.x",
+    "@wdio/selenium-standalone-service": "^7.x.x",
+    "chromedriver": "^100.x.x",
+    "prettier": "^2.x.x",
+    "ts-node": "^10.x.x",
+    "typescript": "^4.x.x",
+    "wdio-wait-for": "^1.x.x",
+    "mocha": "^9.x.x"
+  }
+  
+}
