@@ -26,3 +26,5 @@ describe('Happy Flow Test', () => {
       const confirmationMessage = await $('//h2[contains(text(),"THANK YOU FOR YOUR ORDER")]').getText();
       expect(confirmationMessage).toBe('THANK YOU FOR YOUR ORDER');
     });});
+
+    // Этот комментарий добавлен для тестирования ветки homework
